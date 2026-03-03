@@ -11,6 +11,6 @@
 
 ## Dataset
 
-This project uses the **Freewill Reaching & Grasping** EEG dataset.  
+This project uses the [Freewill Reaching & Grasping EEG dataset](https://figshare.com/articles/dataset/A_Large_Electroencephalogram_Database_of_Freewill_Reaching_and_Grasping_Tasks_for_Brain_Machine_Interfaces/28632599?file=57518986).  
 For instructions on **downloading** the data and a walkthrough of the dataset’s **folder/file structure**, along with **Python scripts** to load and preprocess it, see the companion tutorial repository:  
 [EEG_Freewill_reaching_grasping_load_data](https://github.com/sposso/EEG_Freewill_reaching_grasping_load_data)
