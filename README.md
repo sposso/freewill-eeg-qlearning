@@ -1,6 +1,6 @@
 # Classifying EEG freewill Pre-Movement Intentions Using Q-learning-based Neural Decoders in Reinforcement Learning Brain Machine Interfaces
 
-## Repository Python files
+## Python files
 
 - `main_all.py`: Main experiment. Loads the EEG dataset, applies band-pass settings, then,  train a deep Q-learning based decoder to classify premovement intention  and saves per-subject/section success-rate curves.
 - `models.py`: Neural network architectures and reinforcement-learning components used by the decoder, including the CNN+LSTM EEG classifier, an EEGNet implementation, a replay buffer, and a DQNAgent wrapper that handles action selection and network updates.
