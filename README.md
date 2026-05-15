@@ -8,6 +8,10 @@
 - `data_function.py`: Core EEG data utilities and preprocessing helpers (e.g., raw feature extraction and anti-aliased downsampling via Butterworth low-pass filtering + cubic-spline resampling). 
 - `load_data.py`: Loader for the Freewill Reaching & Grasping `.mat` files. Walks the dataset directory, parses subject/session filenames, and returns a nested dict of loaded MATLAB structures.
 
+- `Code_Step01_EEG_FREEFORM.ma`:  This script is used to extract RAW EEG features from Kaya's dataset.
+- `Code_Step02_EEG_FREEFORM.ma`:  This script is used to implementsoffline center out reaching task using KTD algorithm.
+
+
 
 ## Dataset
 
