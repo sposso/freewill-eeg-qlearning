@@ -9,7 +9,7 @@
 - `load_data.py`: Loader for the Freewill Reaching & Grasping `.mat` files. Walks the dataset directory, parses subject/session filenames, and returns a nested dict of loaded MATLAB structures.
 
 - `Code_Step01_EEG_FREEFORM.ma`:  This script is used to extract RAW EEG features from Kaya's dataset.
-- `Code_Step02_EEG_FREEFORM.ma`:  This script is used to implementsoffline center out reaching task using KTD algorithm.
+- `Code_Step02_EEG_FREEFORM.ma`:  This script is used to implements offline center out reaching task using KTD algorithm.
 
 
 
