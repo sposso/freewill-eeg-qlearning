@@ -19,6 +19,6 @@ This repository contains the code used to run the experiments presented in **"Cl
 
 ## Dataset
 
-This project uses the [Freewill Reaching & Grasping EEG dataset](https://figshare.com/articles/dataset/A_Large_Electroencephalogram_Database_of_Freewill_Reaching_and_Grasping_Tasks_for_Brain_Machi[...]
+This project uses the [Freewill Reaching & Grasping EEG dataset(https://figshare.com/articles/dataset/A_Large_Electroencephalogram_Database_of_Freewill_Reaching_and_Grasping_Tasks_for_Brain_Machi[...]
 For instructions on **downloading** the data and a walkthrough of the dataset’s **folder/file structure**, along with **Python scripts** to load and preprocess it, see the companion tutorial rep[...]
 [EEG_Freewill_reaching_grasping_load_data](https://github.com/sposso/EEG_Freewill_reaching_grasping_load_data)
